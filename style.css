@@ -1,0 +1,18 @@
+body{
+    width: 300px;
+    height: 200px;
+    background-color: #165AE6;
+    color: #e6a216;
+    display: flex;
+    justify-content: center;
+}
+p{
+    display: inline-flex;
+    margin: auto 10px;
+    font-size: 22px;
+    font-weight: 100;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 5px;
+    border: 1px solid #e6a216;
+    padding: 10px;
+}
